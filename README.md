@@ -1,6 +1,6 @@
 # Fortnite Build Archive 
 
-# !!THESE ARE NOT MINE ALL CREDITS TO LLAMAQWERTY, PLOOSH, AUTIES AND N6617X
+# !!THESE ARE NOT MINE ALL CREDITS TO [@n6617x](https://github.com/n6617x) [@LLAMAQWERTY](https://github.com/llamaqwerty) [@plooshware](https://github.com/plooshi) [@auties](https://github.com/auties00)
 
 Most of the links should work, i havent tested all of them.
 
