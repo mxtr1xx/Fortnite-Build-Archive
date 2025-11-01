@@ -1,10 +1,14 @@
-# Fortnite Build Archive !!THESE ARE NOT MINE ALL CREDITS TO LLAMAQWERTY, PLOOSH, AUTIES AND N6617X
+# Fortnite Build Archive 
+
+# !!THESE ARE NOT MINE ALL CREDITS TO LLAMAQWERTY, PLOOSH, AUTIES AND N6617X
 
 Most of the links should work, i havent tested all of them.
 
-!!!I dont own these links, if there is a problem with some of the links. Contact LLAMAQWERY or n6617x!!!
+!!! I dont own these links, if there is a problem with some of the links. Contact LLAMAQWERY or n6617x !!!
 
-All seasons should work, if there is a issue and its with Project Reboot join https://discord.gg/QwXdjEbCqP
+All seasons should work, if there is a issue and its with Project Reboot join [Reboot](https://discord.gg/rebootmp) and go to #support. create a ticket is currently disabled as we are reworking the helper team. 
+
+WILL BE UPDATED ASAP!!
 
 If you want to play 20.40 and above join [Carbon](https://discord.gg/carbon-897532507048796210) or [Erbium](https://discord.gg/erbium)
 
