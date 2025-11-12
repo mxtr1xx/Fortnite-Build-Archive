@@ -4,7 +4,7 @@
 
 ## If i have missed credits, please let me know asap. Credits to everyone hosting these links. 
 
-## Make sure to give [blk](https://github.com/n6617x) and [dimiraku](https://github.com/Dimiraku) credits when using these for a project.
+## Make sure to give [blk]https://github.com/n6617x and [dimiraku]https://github.com/Dimiraku credits when using these for a project.
 
 # Downloads
 
@@ -224,47 +224,47 @@
 | ----------------------------- | ---------------------- | ------------------------ | ------------------------------ | 
 | 21.00-CL-20463113 | 5th June 2022 | UE5.1 | https://fn-builds.repressoh.it/21.00.zip |
 | 21.10-CL-20959871	                | 21st June 2022         	 | UE5.1           	    | https://fn-builds.repressoh.it/21.10.zip | 	
-| 21.20-CL-20978394 | 6th July 2022 | UE5.1 |  (https://fn-builds.repressoh.it/21.20-CL-20978394.7z) |
-| 21.30-CL-21155462 | 18th July 2022 | UE5.1 |  (https://fn-builds.repressoh.it/21.30-CL-21155462.7z) |
-| 21.40-CL-21407327 | 16th August 2022 | UE5.1 |  (https://fn-builds.repressoh.it/21.40-CL-21407327.7z) |
-| 21.50-CL-21245791                | 30th August 2022 | UE5.1 |  (https://fn-builds.repressoh.it/21.50.zip) |
-| 21.51-CL-21735703 | 7th September 2022 | UE5.1 | (https://fn-builds.repressoh.it/21.51.7z) |
+| 21.20-CL-20978394 | 6th July 2022 | UE5.1 |  https://fn-builds.repressoh.it/21.20-CL-20978394.7z |
+| 21.30-CL-21155462 | 18th July 2022 | UE5.1 |  https://fn-builds.repressoh.it/21.30-CL-21155462.7z |
+| 21.40-CL-21407327 | 16th August 2022 | UE5.1 |  https://fn-builds.repressoh.it/21.40-CL-21407327.7z |
+| 21.50-CL-21245791                | 30th August 2022 | UE5.1 |  https://fn-builds.repressoh.it/21.50.zip |
+| 21.51-CL-21735703 | 7th September 2022 | UE5.1 | https://fn-builds.repressoh.it/21.51.7z |
 
 # Season 22
 | Build                         | Date           	 |  Engine Version	    |		    Download links             |	
 | ----------------------------- | ---------------------- | ------------------------ | ------------------------------ | 
-| 22.00-CL-22149829 | 18th September 2022 | N/A | (https://fn-builds.repressoh.it/22.00.7z) |
-| 22.10-CL-22429549 | 4th October 2022 | N/A | (https://fn-builds.repressoh.it/22.10-CL-22429549.7z) |
+| 22.00-CL-22149829 | 18th September 2022 | N/A | https://fn-builds.repressoh.it/22.00.7z |
+| 22.10-CL-22429549 | 4th October 2022 | N/A | https://fn-builds.repressoh.it/22.10-CL-22429549.7z |
 | 22.20-CL-22600409 | 18th October 2022 | N/A | isnt saved yet |
-| 22.40-CL-23070899                | 15th November 2022         	 | N/A            |	(https://fn-builds.repressoh.it/22.40.rar) |
+| 22.40-CL-23070899                | 15th November 2022         	 | N/A            |	https://fn-builds.repressoh.it/22.40.rar |
 
 # Season 23
 | Build                         | Date           	 |  Engine Version	    |		    Download links             |	
 | ----------------------------- | ---------------------- | ------------------------ | ------------------------------ | 
-| 23.00-CL-23344627 | 4th December 2022 | N/A | (https://fn-builds.repressoh.it/23.00.7z) |
-| 23.10-CL-23443094 | 13th December 2022 | N/A | (https://fn-builds.repressoh.it/23.10-CL-23443094.rar) |
+| 23.00-CL-23344627 | 4th December 2022 | N/A | https://fn-builds.repressoh.it/23.00.7z |
+| 23.10-CL-23443094 | 13th December 2022 | N/A | https://fn-builds.repressoh.it/23.10-CL-23443094.rar |
 | 23.20-CL-23783097 | 19th January 2023 | N/A | isnt saved yet |
-| 23.40-CL-24087481 | 14th February 2023 | N/A | (https://fn-builds.repressoh.it/23.40.zip) |
-| 23.50-CL-? | 28th February 2023 | N/A | (https://fn-builds.repressoh.it/23.50.zip) |
+| 23.40-CL-24087481 | 14th February 2023 | N/A | https://fn-builds.repressoh.it/23.40.zip |
+| 23.50-CL-? | 28th February 2023 | N/A | https://fn-builds.repressoh.it/23.50.zip |
 
 # Season 24
 | Build                         | Date           	 |  Engine Version	    |		    Download links             |		
 | ----------------------------- | ---------------------- | ------------------------ | ------------------------------ | 
-| 24.00-CL-24554913 | 10th March 2023 | N/A | (https://fn-builds.repressoh.it/24.00-CL-24554913.zip) |
+| 24.00-CL-24554913 | 10th March 2023 | N/A | https://fn-builds.repressoh.it/24.00-CL-24554913.zip |
 | 24.01-CL-24672685 | 20th March 2023 | N/A | isnt saved yet |
 | 24.10-CL-24903530 | 29th March 2023 | N/A | isnt saved yet |
-| 24.20-CL-25156858	| ?/?2023        	 | N/A           	    |	(https://fn-builds.repressoh.it/24.20-CL-25156858.zip) |
-| 24.20-CL-24939793	| 11th April 2023        	 | N/A           	    |	(https://fn-builds.repressoh.it/24.20-CL-24939793.rar) |
+| 24.20-CL-25156858	| ?/?2023        	 | N/A           	    |	https://fn-builds.repressoh.it/24.20-CL-25156858.zip |
+| 24.20-CL-24939793	| 11th April 2023        	 | N/A           	    |	https://fn-builds.repressoh.it/24.20-CL-24939793.rar |
 | 24.30-CL-23789416 | 2nd May 2023 | N/A | isnt saved yet |
 | 24.40-CL-25521145 | 17th May 2023 | N/A | isnt saved yet |
-| 24.40-CL-25595478 | 17th May 2023 | N/A | (https://fn-builds.repressoh.it/24.40-CL-25595478.zip) |
+| 24.40-CL-25595478 | 17th May 2023 | N/A | https://fn-builds.repressoh.it/24.40-CL-25595478.zip |
 
 # Season 25
 | Build                         | Date           	 |  Engine Version	    |		    Download links             |		
 | ----------------------------- | ---------------------- | ------------------------ | ------------------------------ | 
 | 25.00-CL-25909622 | 17th June 2023 | N/A | isnt saved yet |
 | 25.10-CL-26000959 | 20th June 2023 | N/A | isnt saved yet |
-| 25.11-CL-26171015 | 27th June 2023 | N/A | (https://fn-builds.repressoh.it/25.11.zip) |
+| 25.11-CL-26171015 | 27th June 2023 | N/A | https://fn-builds.repressoh.it/25.11.zip |
 | 25.20-CL-26474516 | 26th July 2023 | N/A | isnt saved yet |
 | 25.20-CL-26629111 | 26th July 2023 | N/A | isnt saved yet |
 | 25.30-CL-26867995 | 8th August 2023 | N/A | isnt saved yet |
@@ -276,30 +276,30 @@
 | 26.00-CL-27424790 | 25th August 2023 | N/A | isnt saved yet |
 | 26.10-CL-27681420 | 12th September 2023 | N/A | isnt saved yet |
 | 26.20-CL-28096793 | 26th September 2023 | N/A | isnt saved yet |
-| 26.30-CL-28688692	                | 10th October 2023         	 | N/A           	    |	 (https://fn-builds.repressoh.it/26.30-CL-28688692.zip) |
-| 26.30-CL-28509302	                | 17th October 2023         	 | N/A           	    |	 (https://fn-builds.repressoh.it/26.30-CL-28509302.zip) |
+| 26.30-CL-28688692	                | 10th October 2023         	 | N/A           	    |	 https://fn-builds.repressoh.it/26.30-CL-28688692.zip |
+| 26.30-CL-28509302	                | 17th October 2023         	 | N/A           	    |	 https://fn-builds.repressoh.it/26.30-CL-28509302.zip |
 
 # Season 27
 | Build               | Date                 | Engine Version    | Download links |
 | ------------------- | --------------------- | ----------------- | ------------------------ |
-| 27.00-CL-29072304 | 3rd November 2023 | UE5.4 | (https://fn-builds.repressoh.it/27.00-CL-29072304.zip) |
-| 27.10-CL-29578459 | 16th November 2023 | UE5.4 | (https://fn-builds.repressoh.it/27.10-CL-29552510.zip) |
-| 27.11-CL-29739262 | 21st November 2023 | UE5.4 | (https://fn-builds.repressoh.it/27.11-CL-29739262.7z) |
+| 27.00-CL-29072304 | 3rd November 2023 | UE5.4 | https://fn-builds.repressoh.it/27.00-CL-29072304.zip |
+| 27.10-CL-29578459 | 16th November 2023 | UE5.4 | https://fn-builds.repressoh.it/27.10-CL-29552510.zip |
+| 27.11-CL-29739262 | 21st November 2023 | UE5.4 | https://fn-builds.repressoh.it/27.11-CL-29739262.7z |
 
 # Season 28
 | Build | Date | Engine Version | Download links |
 |-|-|-|-|
-| 28.00-CL-29915848 | 3rd December 2023 | UE5.5 | (https://fn-builds.repressoh.it/28.00-CL-29915848.7z) |
+| 28.00-CL-29915848 | 3rd December 2023 | UE5.5 | https://fn-builds.repressoh.it/28.00-CL-29915848.7z |
 | 28.01-CL-30106568 | 19th December 2023 | UE5.5 | isnt saved yet |
 | 28.01-CL-30313795 | 19th December 2023| UE5.5 | isnt saved yet |
 | 28.10-CL-30676362 | 23rd January 2024 | UE5.5 | isnt saved yet |
-| 28.20-CL-31165234 | 5th February 2024 | UE5.5 | (https://fn-builds.repressoh.it/28.20-CL-31165234-Windows.zip) |
-| 28.30-CL-31511038 | 22nd February 2024 | UE5.5 | (https://fn-builds.repressoh.it/28.30-CL-31511038.7z) |
+| 28.20-CL-31165234 | 5th February 2024 | UE5.5 | https://fn-builds.repressoh.it/28.20-CL-31165234-Windows.zip |
+| 28.30-CL-31511038 | 22nd February 2024 | UE5.5 | https://fn-builds.repressoh.it/28.30-CL-31511038.7z |
 
 # Season 29
 | Build | Date | Engine Version | Download links |
 | --- | --- | -- | --- |
-| 29.00-CL-32116959 | 8th March 2024 | UE5.5 | (https://fn-builds.repressoh.it/29.00-CL-32116959.7z) |
+| 29.00-CL-32116959 | 8th March 2024 | UE5.5 | https://fn-builds.repressoh.it/29.00-CL-32116959.7z |
 | 29.01-CL-32291970 | 19th March 2024 | UE5.5 | isnt saved yet |
 | 29.10-CL-32391220 | 26th March 2024 | UE5.5 | isnt saved yet |
 | 29.10-CL-32567225 | 27th March 2024 | UE5.5 | isnt saved yet |
@@ -310,7 +310,7 @@
 # Season 30
 | Build              | Date                 | Engine Version      | Download links |
 | ------------------ | -------------------- | ------------------- | --------------- |
-| 30.00-CL-33962396 | 24th May 2024  | UE5.5 | (https://fn-builds.repressoh.it/30.00-CL-33962396.rar) |
+| 30.00-CL-33962396 | 24th May 2024  | UE5.5 | https://fn-builds.repressoh.it/30.00-CL-33962396.rar |
 | 30.10-CL-34261954 | 13th June 2024 | UE5.5 | isnt saved yet |
 
 # Season 31
@@ -321,4 +321,4 @@
 # Season 32
 | Build              | Date                 | Engine Version      | Download links |
 | ------------------ | -------------------- | ------------------- | --------------- |
-| 32.11-CL-38371047 | 21st November 2024  | UE5 | (https://fn-builds.repressoh.it/32.11-CL-38371047.rar) |
+| 32.11-CL-38371047 | 21st November 2024  | UE5 | https://fn-builds.repressoh.it/32.11-CL-38371047.rar |
