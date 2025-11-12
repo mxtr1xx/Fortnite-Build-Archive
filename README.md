@@ -4,7 +4,7 @@
 
 ## If i have missed credits, please let me know asap. Credits to everyone hosting these links. 
 
-## Make sure to give [blk]https://github.com/n6617x and [dimiraku]https://github.com/Dimiraku credits when using these for a project.
+## Make sure to give [blk](https://github.com/n6617x) and [dimiraku](https://github.com/Dimiraku) credits when using these for a project.
 
 # Downloads
 
