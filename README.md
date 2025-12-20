@@ -1,6 +1,6 @@
-Welcome to the largest up-to-date Fortnite build archive.
+# Welcome to the largest up-to-date Fortnite build archive.
 
-A build collection like no other.
+# A build collection like no other.
 
 # All credits to llamaqwerty, i made this because i was bored.
 
@@ -10,18 +10,7 @@ A build collection like no other.
 
   Buzzheavier will be broken if your adblocker is enabled
 
-</details>
-
-<details>
-  <summary><h2>Uploader's Disclosure</h2></summary>
-
-
-
-</details>
-
-<details>
-  <summary><h2>Notes</h2></summary>
-
+  
   I am not the owner of any of these builds and am not resposible for any of the wesbites they are on. Keep in mind some links may say they provide a certain version when they have been proven to actually be a different version.
 
   If you want to download builds using manifests, you can [get Legendary from here](https://drive.google.com/drive/u/0/folders/1NXsfDJEwNBanjWFaLaZH7q3IdY3eKuEE) and [get manifests from here](https://github.com/polynite/fn-releases)
